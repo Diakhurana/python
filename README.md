@@ -1,2 +1,2 @@
 # python
-I am learning python
+learning python
